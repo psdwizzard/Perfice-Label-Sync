@@ -1,4 +1,4 @@
-# Perfice-Label-Sync
+# Perforce-Label-Sync
 
 I created this script to alow auto download of labeled files on a P4/Perfoce depot. 
 
